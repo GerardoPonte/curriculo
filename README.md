@@ -1,2 +1,0 @@
-# cv-gerardoponte
-# cv-gerardoponte

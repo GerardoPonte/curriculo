@@ -56,11 +56,17 @@
 
 /*inicia section*/
 
+.h2-web-desing {
+  width: 95%;/**/
+  text-align: center;
+  /*background-color: rgb(14, 255, 106);/*VISUALIZADOR*/
+}
+
 .section-1 {
   display: flex;/**/
   justify-content: center;/**/
-  margin-top: 40px;
-  /*width: 99%;/**/
+  /*margin-top: 40px;/**/
+  width: 78%;/**/
   /*background-color: rgb(136, 15, 218);/*VISUALIZADOR*/
 }
 
@@ -72,7 +78,7 @@
   /*background-color: rgb(218, 32, 32);/*VISUALIZADOR*/
 }
  
-
+ 
 .section-1 .article-bienvenidos .h2-bienvenidos {
   /*font-size: 1.6em;/*1.6em PREDETERMINADO*/
   text-align: center;/**/
