@@ -89,7 +89,7 @@ text-decoration: none;
   /*justify-content: flex-end;
   /*align-content:stretch;/**/
   
-  width: 90%;/*PREDETERMINADO width: 90%;*/
+  width: 92%;/*PREDETERMINADO width: 90%;*/
   /*background-color: rgb(235, 77, 77);/*visualozador*/
 }
 /* ------------------------- */
@@ -125,7 +125,7 @@ align-items: center;
 justify-content: center;
 
 
-margin: -20px;/*PREDETERMINADO, AYUDA A UNIR UN POCO MAS LOS CIRCULOS: margin: -20px;/**/
+margin: -.5px;/*PREDETERMINADO, AYUDA A UNIR UN POCO MAS LOS CIRCULOS: margin: -20px;/**/
 
 width: 165px;/*PREDETERMINADO width: 200px;/**/
 height: 150px;/*PREDETERMINADO height: 150px;*/ 
@@ -134,7 +134,7 @@ text-align: center;/**/
 /*padding: 1.3rem .2rem .8rem .2rem;*/
 border-radius: 100%;
 border: solid 1px white;/**/
-background-color: rgb(255, 0, 140);/*VISUALIZADOR*/
+/*background-color: rgb(255, 0, 140);/*VISUALIZADOR*/
 /*font-size: em;/**/
 }
 
