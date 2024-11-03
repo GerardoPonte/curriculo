@@ -217,15 +217,16 @@
 
 /* INICIA FOOTER-LOGO .DIV-DANTE-SERVICES .SECTION-DANTE-SERVICES .H5-FOOTER
 */  #footer-logo .div-dante-services .section-dante-services .h5-footer {
-    width: 76%;
+    width: 90%;
     text-align: center;
     color: white;
     font-size: 1.1em; /**/
-    margin: 1.5rem; 
+    margin: 1.1rem; /*margin: 1.5rem; /*PREDETERMINADO*/
     padding: 1.3rem .2rem .8rem .2rem;
-    border-radius: 3rem;
+    border-radius: 1rem;/*border-radius: 3rem; PREDETERMINADO*/
     /*border: solid 1px white;/**/
     background-color: rgba(29, 56, 67, 0.623);/**/
+    /*background-color: aqua;/*VISUALIZADOR*/
   }
 
 
