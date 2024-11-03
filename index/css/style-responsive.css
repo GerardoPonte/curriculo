@@ -4,7 +4,7 @@
 
 @media screen and (min-width: 420px) {
   #footer-logo .div-dante-services .section-dante-services .h5-footer, .h5b-footer{
-      max-width: 230px;
+      max-width: 450px;/**/
       /*font-size: .8em; /**/
 
   }
@@ -61,11 +61,12 @@
 
 @media screen and (min-width: 1100px) {/*@media screen and (min-width: 1320px)*/
 
+/*ESTE ES EL CONTENEDOR DE GERARDO PONTE Y CIRCULOS*/
 #footer-logo .div-dante-services{
-max-width: 1400px;
+max-width: 1700px;
 height: 500px;/**/
 justify-content:space-around;
-/*background-color: rgb(255, 123, 0);/*VISUALIZADOR*/
+background-color: rgb(255, 123, 0);/*VISUALIZADOR*/
 }
 
 #footer-logo .h5-footer a {
@@ -81,7 +82,6 @@ text-decoration: none;
 #footer-logo .div-dante-services .section-dante-services {
   display: flex;
   flex-direction: row;/**/
-  
   /*justify-content: center;/**/
   /*justify-content: space-around;/**/
   /*justify-content: space-between;/**/
@@ -89,11 +89,12 @@ text-decoration: none;
   /*justify-content: flex-end;
   /*align-content:stretch;/**/
   
-  width: 90%;
-  /*background-color: aqua;/*visualozador*/
+  width: 90%;/*PREDETERMINADO width: 90%;*/
+  background-color: aqua;/*visualozador*/
 }
 /* ------------------------- */
 
+/*ESTE ES EL TEXTO CONTENEDOR DE GERARDO PONTE*/
 #footer-logo .div-dante-services .h2-footer {
   display: flex;
   flex-direction: row;/**/
@@ -103,20 +104,21 @@ text-decoration: none;
 
   align-content: center;
   text-align: center;
-  font-size: 1.9em;/**/
+  font-size: 1.4em;/*PREDETERMINADO font-size: 1.9em;*/
   padding: 1.3rem .2rem .8rem .2rem;
   /*margin: .7rem .7rem;/**/
   /*border: solid 1px white;/**/
   border-radius: 9px;/**/
   /*background-color: aqua;/*visualizador*/
-  /*background-color: rgba(29, 56, 67, 0.623);/**/
+  background-color: rgba(29, 56, 67, 0.623);/**/
+  /*background-color: chartreuse;/*VISUALIZADOR*/
 }
 
 /* termina h2 dante digital*/
 
 
 
-/* inica h5 soporte ti, android, web desing*/
+/* INICIA H5 CIRCULOS DE EXPERIENCIA LABORAL, ULTIMO EMPLEO, CAPACITACION*/
 #footer-logo .div-dante-services .section-dante-services .h5-footer {
 display: flex;
 align-items: center;
@@ -125,14 +127,14 @@ justify-content: center;
 
 margin: 0px;/**/
 
-width: 200px;/**/
-height: 150px;/**/
+width: 200px;/*PREDETERMINADO width: 200px;/**/
+height: 100px;/*PREDETERMINADO height: 150px;*/ 
 text-align: center;/**/
 /*font-size: 1.1em; /**/ 
 /*padding: 1.3rem .2rem .8rem .2rem;*/
 border-radius: 100%;
 border: solid 1px white;/**/
-/*background-color: aqua;/*VISUALIZADOR*/
+background-color: rgb(255, 0, 140);/*VISUALIZADOR*/
 /*font-size: em;/**/
 }
 
