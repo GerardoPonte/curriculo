@@ -97,7 +97,7 @@
 
 /*--- inicia primer article conel texto responsive web desing*/
 .section-2 {
-  /*width: 99%;/**/
+  /*width: 99%;/**/ 
   display: flex;/**/
   justify-content: center;/**/
   margin-top: 60px;/**/
