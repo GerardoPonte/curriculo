@@ -46,7 +46,7 @@
   display: flex;/**/
   flex-direction: column;/**/
   align-items: center;/**/
-  
+  /*justify-content: center;/**/
   width: 100%;/**/
   /*background-color: rgb(228, 207, 18);/*VISUALIZADOR*/
 }
@@ -68,7 +68,9 @@
   display: flex;/**/
   flex-direction: column;
   align-items: center;
-  
+  /*justify-content: center;/**/
+  /*align-content: center;/**/
+  /*margin-top: 40px;/**/
   width: 100%;/**/
   /*background-color: rgb(136, 15, 218);/*VISUALIZADOR*/
 }
@@ -77,8 +79,8 @@
   display: flex;/**/
   flex-direction: column;
   align-items: center;
-  
   width: 95%;
+  
   /*background-color: rgb(218, 32, 32);/*VISUALIZADOR*/
 }
  
@@ -98,13 +100,14 @@
   flex-direction: column;
   align-items: center;
   
-  width: 100%;
+  width: 90%;
   border: solid rgba(2, 0, 0, 0.247) 1px;/**/
-  /*background-color: rgb(5, 68, 54);/*VISUALIZADOR*/
+  background-color: rgb(5, 68, 54);/*VISUALIZADOR*/
 }
 
 .section-1 .article-1 .figure-1-curso .img-curso {
-  width: 80%;
+  width: 100%;
+  /*height: auto;/**/
 
 
 }
