@@ -59,36 +59,73 @@
         <h2 class="h2-plan-capacitacion">
         PLAN DE CAPACITACION NOVIEMBRE Y DICIEMBRE 2024</h2>
 
-        <section class="section-1">
-            <article class="article-1">
-                <p class="texto-1">
-                    Buenas tardes estimados, quisiera presentarles el plan de capacitación para este mes de noviembre y
-                    diciembre 2024.</p>
-                <p class="texto-1">
-                    Para este apartado tenemos una serie de cursos adquiridos en Udemy algunos de ellos ya les di una
-                    ojeada</p>
+    <section class="section-1">
+        <article class="article-1">
+            <p class="article-1">Fortinet: De principiante a experto</p>
+                <figure class="figure-1-curso">
+                    <img class="img-curso" src="./plan-de-capacitacion/img/6.png" alt="curso"/>
+                </figure>               
+            <ul>
+                <li>Videos: 96</li>
+                <li>Total, de horas: 25 horas.</li>
+                <li>Nivel de habilidad requerida: intermedio.</li>
+                <li>Recursos descargables: 11.</li>
+                <li>articles: 11.</li>
+            </ul>
+    <h3>Descripcion</h3>
+    
+    <p class="article-1">
+        La seguridad en los tiempos que corren es una problematica central de toda organización y en este aspecto
+        Fortinet en los últimos años se a desarrollado hasta posicionarse como la empresa líder en seguridad en 
+        redes, en este curso aprenderá a dominar los firewalls Fortigate de Fortinet comenzando por lo básico desde
+        cero sin experiencia alguna requerida. En este curso aprendera todas las herramientas y habilidades requeridas
+        por la certificacion NSE4 de Fortinet, juntos iremos recorriendo las opciones de esta gran marca abarcando 
+        desde su configuración inicial, políticas de seguridad, UTM (unified threat management), SD-WAN y politicas de
+        trafico, web filter, antivirus, IDS/IPS, application control, traffic shapers, conexiones seguras mediante vpn,
+        gestión de usuarios, integración con Active Directory, actualización, backup, migración de configuraciones 
+        entre diferentes modelos y mucho pero mucho mas</p>
+    
+    <p class="article-1">
+        Tambien encontraras como en todos mis cursos (y este no sera la excepcion) una guia completa para instalar un 
+        laboratorio sin ningun costo adicional que podras ejecutar en tu computadora utilizando las herramientas vmware 
+        (free) + GNS3 para que puedas practicar sin la necesidad de invertir en equipos.</p>
 
-                <figure class="figure-1-curso">
-                    <img class="img-curso" src="./plan-de-capacitacion/img/2.png" alt="curso"/>
-                </figure>
-                <figure class="figure-1-curso">
-                    <img class="img-curso" src="./plan-de-capacitacion/img/3.png" alt="curso"/>
-                </figure>
-            </article> 
-              
-            <article class="article-1">
-                <p class="texto-1">
-                    Tenemos prioridades así que los cursos a los que se les dará seguimiento son:</p>
-                <ol class="list-cursos">
-                    <li><a href="sql-server.html">Nombre del curso: Entrenamiento de Base de Datos Microsoft SQL Server.</a></li>
-                    <li><a href="ccna.html">Nombre del curso: Certificación CCNA Versión 200-301. Aprende CCNA 2 y 3.</a></li>
-                    <li><a href="hardening-linux.html">Nombre del curso: Seguridad Informática en Servidores Linux: Hardening.</a></li>
-                    <li><a href="windows-server.html">Nombre del curso: Arquitectura, PowerShell y Azure, basado en Windows Server 2019 y 2022.</a></li>
-                    <li><a href="fortinet">Nombre del curso: Fortinet: De principiante a experto.</a></li>
-                </ol>
-            </article> 
-    </section>   
-          
+    <h2>Lo que aprenderás:</h2>
+    <ul>
+        <li>En este curso estudiaremos todos los temas requeridos por la certificacion NSE4.</li>
+        <li>Al final de este curso será capaz de dominar cualquier firewall Fortigate incluyendo pero no limitando los siguientes temas:</li>
+        <li>Veremos la administración de equipos Fortigate tanto en forma gráfica (GUI) como por linea de comandos (CLI).</li>
+        <li>Routing.</li>
+        <li>Software-Defined WAN (SD-WAN).</li>
+        <li>Virtual Domains (VDOMS).</li>
+        <li>Layer 2 Switching.</li>
+        <li>Site-to-Site IPsec VPN.</li>
+        <li>Fortinet Single Sign-On (FSSO).</li>
+        <li>High Availability (HA).</li>
+        <li>Firewall Policies.</li>
+        <li>Network Address Translation (NAT).</li>
+        <li>Firewall Authentication.</li>
+        <li>Logging and Monitoring.</li>
+        <li>Certificate Operations.</li>
+        <li>Web Filtering.</li>
+        <li>Application Control.</li>
+        <li>Antivirus.</li>
+        <li>Intrusion Prevention and Denial of Service.</li>
+        <li>SSL VPN.</li>
+        <li>Dialup IPsec VPN.</li>
+        <li>Bonus... (temas a pedido de mis alumnos).</li>
+        <li>Diagnostics</li>        
+    </ul>
+    
+    <h3>
+        Es necesario tener experiencia o haber realizado alguna capacitación previa sobre networking, este curso es sobre aprender
+         a dominar los equipos Fortigate y para eso necesitamos conocimientos basicos sobre networking</h3>   
+</article>  
+</section> 
+
+
+
+            
         <!-- Este es el contenedor de fondo-->
     </main>
     <footer id="footer-logo">
